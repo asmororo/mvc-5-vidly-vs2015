@@ -88,3 +88,6 @@ C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\V
 C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
 C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipTypes.resources
 C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
