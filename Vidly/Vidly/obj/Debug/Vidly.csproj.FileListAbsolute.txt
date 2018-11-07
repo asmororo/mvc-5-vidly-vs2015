@@ -77,11 +77,7 @@ C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\V
 C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
-C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.dll
-C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.pdb
 C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
-C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
 C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
 C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
@@ -91,3 +87,7 @@ C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\V
 C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
 C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
 C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
+C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\MORORO\Documents\Visual Studio 2015\Projects\mvc-5-vidly-vs2015\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
