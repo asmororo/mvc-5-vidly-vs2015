@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 3401534,
+    "Username": "asmororo",
+    "Name": "Anderson Soares Mororó",
+    "Email": "asmororo@gmail.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/dc22a55f6aa7795a3767b9c79e0f6099?s=80&d=identicon",
+    "PrivateToken": "7615815cf918a6569e617f50fe00ac6fc0b42aad4e9ba15381e73c33c62272c1",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
